@@ -1,4 +1,3 @@
-Sure! Here is a sample `README.md` file for your GitHub repository:
 
 ```markdown
 # Decision Tree Classifier for Predicting Customer Purchase
@@ -43,17 +42,13 @@ The notebook demonstrates how to build and evaluate Decision Tree classifiers to
    ```
 2. Navigate to the project directory:
    ```sh
-   cd decision-tree-classifier
-   ```
-3. Install the required dependencies:
-   ```sh
-   pip install -r requirements.txt
+   cd Task 3.ipynb
    ```
 4. Open the Jupyter notebook:
    ```sh
    jupyter notebook
    ```
-5. Run the `decision_tree_classifier.ipynb` notebook.
+4. Run the `Task 3.ipynb` notebook.
 
 ## Dependencies
 - pandas
