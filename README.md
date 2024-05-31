@@ -1,5 +1,4 @@
 
-```markdown
 # Decision Tree Classifier for Predicting Customer Purchase
 
 This repository contains a Jupyter notebook that demonstrates the use of a Decision Tree classifier to predict whether a customer will purchase a product or service based on their demographic and behavioral data. The dataset used is the Bank Marketing dataset from the UCI Machine Learning Repository.
